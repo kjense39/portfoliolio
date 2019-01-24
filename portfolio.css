@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Major+Mono+Display|Roboto');
+
+body {
+	font-family: 'Roboto', monospace;
+}
+
+h1 {
+	font-family: 'Major Mono Display', monospace;
+ 	font-size: 3em;
+	color: #414141;
+	background-color: yellow;
+}
+
