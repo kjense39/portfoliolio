@@ -38,5 +38,14 @@ li a:hover:not(.active) {
 .active {
 	background-color: blue;
 }
+section {
+	display:flex;
+}
 
+aside {
+	flex: 1;
+}
+article {
+	flex: 4;
+}
 
